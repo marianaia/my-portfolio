@@ -1,0 +1,23 @@
+:root {
+  --primary-color: #336e35;
+  --secondary-color: #bda0a0;
+  --background-color: #ffffff;
+  --text-color: #333;
+  --link-color: #0073e6;
+  --contact-btn-color: #d8bfd8; 
+  --header-separator-color: #000; 
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

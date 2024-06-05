@@ -1,0 +1,32 @@
+.about-slider {
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  font-size: 20px;
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.slide.active {
+  opacity: 1;
+}
