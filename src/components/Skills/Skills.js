@@ -1,7 +1,7 @@
 import React from 'react';
 import './Skills.css';
 
-const skills = ['C#.NET', 'TypeScript', 'React.js', 'Python', 'HTML / CSS'];
+const skills = ['C#.NET', 'Rust', 'TypeScript', 'React.js', 'Python'];
 
 const Skills = () => {
   return (
