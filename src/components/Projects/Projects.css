@@ -1,5 +1,5 @@
 .projects {
-  background: white;
+  background: var(--background-color);
   padding: 2rem 0;
 }
 
@@ -20,16 +20,17 @@
 }
 
 .project-card {
-  background: #e4dddd1a;
+  background: var(--background-color);
   padding: 1rem;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px var(--box-shadow);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  color: var(--text-color-dark);
 }
 
 .project-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 15px var(--box-shadow);
 }
 
 .project-card h3 {

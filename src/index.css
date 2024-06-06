@@ -2,10 +2,36 @@
   --primary-color: #336e35;
   --secondary-color: #bda0a0;
   --background-color: #ffffff;
-  --text-color: #333;
+  --text-color-dark: #333;
+  --text-color-light:  #ffffff;
   --link-color: #0073e6;
   --contact-btn-color: #d8bfd8; 
   --header-separator-color: #000; 
+
+  --border-color: #f5f5f5;
+  --chat-hover: rgba(14, 14, 14, 0.529);
+  --chat-button: #1ca99b;
+  --chat-button-hover: #1ca99b7f;
+  --chat-popup-back: rgba(0, 0, 0, 0.5);
+
+  --box-shadow: rgba(0, 0, 0, 0.3);
+  --chat-popoup: rgba(0, 0, 0, 0.5);
+
+  --header-text-back: #fffefebc;
+
+  --header-contact-button-back: #9f969d;
+  --header-contact-button-hover: #9f969dc3;
+
+  --nav-bar-back: rgb(218, 205, 205);
+  --nav-item-hover: #62675c;
+
+
+  --projects-card: #e4dddd1a;
+  --projects-card-hover: rgba(0, 0, 0, 0.2);
+
+
+  --skills-li-back: #978c8cd0;
+  --skills-li-hover: #777777b0;
 }
 
 body {

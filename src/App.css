@@ -10,10 +10,6 @@
   align-items: center;
 }
 
-.main {
-  border: 3px solid black;
-}
-
 .about-photo {
   max-width: 100%;
   height: auto;

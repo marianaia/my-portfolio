@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Journal Expenses',
     description: 'It allows users to securely register and log in, create transactions and manage their income and expenses. Including JWT authentication, ASP.NET Core and React.js',
-    link: 'https://github.com/marianaia/UserAuth'
+    link: 'https://github.com/marianaia/Finances'
   },
   {
     title: 'Notes & Tasks',
