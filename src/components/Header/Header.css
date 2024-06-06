@@ -14,7 +14,7 @@
 .page-title {
   font-size: 3rem;
   margin: 0;
-  background-color: var(--header-text-back)c;
+  background-color: var(--header-text-back);
   color: var(--text-color-dark);
   padding: 10px;
   text-align: center;
