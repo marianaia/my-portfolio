@@ -11,6 +11,11 @@ const projects = [
     title: 'Notes & Tasks',
     description: 'Full-stack project that stores your notes. The Rust backend and PostgreSQL for data storage. Orchestrated with Docker Compose for deployment and management. User interface for handling, note creation, editing, and deletion.',
     link: 'https://github.com/marianaia/Notes'
+  },
+  {
+    title: 'Shape detection',
+    description: 'This project detects and classifies shapes in imported images using Python and image processing techniques ( Canny edge detection algorithm ).',
+    link: 'https://github.com/marianaia/shape-detection'
   }
 ];
 
