@@ -24,8 +24,13 @@
   padding: 1rem;
   border-radius: 5px;
   box-shadow: 0 0 10px var(--box-shadow);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
   color: var(--text-color-dark);
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .project-card:hover {

@@ -5,9 +5,9 @@ const About = () => {
 
   const [currentSlide, setCurrentSlide] = useState(0);
   const slides = [
-    'Experienced in both frontend and backend development, creating complete web applications from scratch.',
-    'Specialized in building responsive and user-friendly interfaces using modern frontend technologies.',
-    'Designing robust APIs and managing databases to support scalable applications.',
+    'Always looking for better ways to solve problems.',
+    'Writing software that is reliable and easy to maintain.',
+    'Passionate about building solutions from scratch.',
   ];
 
   const nextSlide = () => {
