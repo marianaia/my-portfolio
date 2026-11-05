@@ -1,7 +1,6 @@
 .header-content {
   text-align: center;
 }
-
 @media screen and (max-width: 768px) {
   .header {
     background: url("../../images/header-mob2.png") no-repeat center
